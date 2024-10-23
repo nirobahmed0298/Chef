@@ -1,0 +1,56 @@
+[
+  {
+    "recipeId": "1",
+    "recipeName": "Spaghetti Carbonara",
+    "recipeImage": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg",
+    "recipeTitle": "Classic Italian Spaghetti Carbonara",
+    "ingredients": ["Spaghetti", "Eggs", "Pancetta", "Parmesan Cheese", "Garlic", "Black Pepper"],
+    "preparingTime": 10,
+    "calories": 450
+  },
+  {
+    "recipeId": "2",
+    "recipeName": "Chicken Caesar Salad",
+    "recipeImage": "https://images.pexels.com/photos/1656666/pexels-photo-1656666.jpeg",
+    "recipeTitle": "Crispy Chicken Caesar Salad",
+    "ingredients": ["Romaine Lettuce", "Grilled Chicken", "Caesar Dressing", "Croutons", "Parmesan Cheese", "Anchovies"],
+    "preparingTime": 20,
+    "calories": 300
+  },
+  {
+    "recipeId": "3",
+    "recipeName": "Beef Tacos",
+    "recipeImage": "https://images.pexels.com/photos/704569/pexels-photo-704569.jpeg",
+    "recipeTitle": "Mexican Style Beef Tacos",
+    "ingredients": ["Ground Beef", "Taco Shells", "Cheddar Cheese", "Lettuce", "Tomato", "Sour Cream"],
+    "preparingTime": 30,
+    "calories": 500
+  },
+  {
+    "recipeId": "4",
+    "recipeName": "Vegan Buddha Bowl",
+    "recipeImage": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg",
+    "recipeTitle": "Healthy Vegan Buddha Bowl",
+    "ingredients": ["Quinoa", "Avocado", "Chickpeas", "Sweet Potato", "Kale", "Tahini"],
+    "preparingTime": 40,
+    "calories": 400
+  },
+  {
+    "recipeId": "5",
+    "recipeName": "Pancakes",
+    "recipeImage": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg",
+    "recipeTitle": "Fluffy Homemade Pancakes",
+    "ingredients": ["Flour", "Milk", "Eggs", "Baking Powder", "Butter", "Maple Syrup"],
+    "preparingTime": 60,
+    "calories": 350
+  },
+  {
+    "recipeId": "6",
+    "recipeName": "Grilled Salmon",
+    "recipeImage": "https://images.pexels.com/photos/704569/pexels-photo-704569.jpeg",
+    "recipeTitle": "Lemon Garlic Grilled Salmon",
+    "ingredients": ["Salmon Fillets", "Lemon", "Garlic", "Olive Oil", "Parsley", "Black Pepper"],
+    "preparingTime": 50,
+    "calories": 420
+  }
+]
